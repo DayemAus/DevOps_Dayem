@@ -1,2 +1,2 @@
 # DevOps_Dayem
-Learning DevOps
+Learning DevOps with Git and GitHub
